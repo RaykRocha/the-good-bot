@@ -4,7 +4,7 @@
     <img src="screen/logo_transparent.png" width="250"/>
 </h1
 
-Aplicação web para registro e configuração da inteligência do TheGoodBot. CRUD completo desenvolvido em Spring Boot para a disciplina de Microservice And Web Engineering e o challenge <a href"https://www.fiap.com.br/graduacao/n2020">N2020</a>.
+Aplicação web para registro e configuração da inteligência do TheGoodBot. CRUD completo desenvolvido em Spring Boot para a disciplina de Microservice And Web Engineering e o challenge <a href="https://www.fiap.com.br/graduacao/n2020">N2020</a>
 
 <div style="text-align: center">
     <table>
@@ -46,3 +46,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Hibernate](https://hibernate.org)
 - [Bootstrap](https://getbootstrap.com)
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
