@@ -44,7 +44,32 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Spring Boot](https://spring.io)
 - [Gradle](https://gradle.org)
 - [Hibernate](https://hibernate.org)
+- [Oracle Database](https://www.oracle.com/br/database/)
 - [Bootstrap](https://getbootstrap.com)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Get Started
+
+Clone o repositório em sua máquina
+
+```git clone https://github.com/RaykRocha/the-good-bot```
+
+Altere o arquivo application.properties adicionando a url do seu banco, user e senha
+
+```
+spring.datasource.url=URL
+spring.datasource.username=USERNAME
+spring.datasource.password=PASSWORD
+```
+
+Na primeira vez altere a propriedade “spring.jpa.hibernate.ddl-auto” para create (isso vai popular o banco).
+
+Cuidado com essa propriedade, de padrão ela vem como validate.
+```
+spring.jpa.hibernate.ddl-auto=validate
+```
+
+Execute o projeto e acesse
+
+```
+http://localhost:8080/fiap/bot
+```
