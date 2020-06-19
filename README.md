@@ -73,3 +73,12 @@ Execute o projeto e acesse
 ```
 http://localhost:8080/fiap/bot
 ```
+## Integrantes
+
+> [**Jefrey Marcus Machado**](https://www.linkedin.com/in/jefreymarcus/) - *RM81694*<br>
+> [**Jonatas Martins De Castro**](https://www.linkedin.com/in/jonatas-martins-de-castro-bb9397106/) - *RM81510* <br>
+> Lucas Lima Teixeira - *RM81541*<br>
+> [**Marcos Farias**](https://www.linkedin.com/in/fmarcoos/) - *RM81723*<br>
+> [**Rayk Rocha**](https://www.linkedin.com/in/rayk/) - *RM81723*
+
+
